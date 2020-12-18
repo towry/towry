@@ -6,3 +6,6 @@ I mentally can not stand this, sorry : [Lips smack is bad](https://www.zhihu.com
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=towry&show_icons=true&theme=radical)
+
+
+NPM sucks, use Yarn!
