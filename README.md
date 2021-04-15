@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My [wishlist](https://www.wishlistr.com/towry) 🦹🏻‍♂️
+My [Linktr.ee](https://linktr.ee/towry) 🦹🏻‍♂️
 
 I mentally can not stand this, sorry : [Lips smack is bad](https://www.zhihu.com/question/407210880)
 
