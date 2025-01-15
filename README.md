@@ -5,4 +5,4 @@ I'm Towry, a passionate developer with a diverse skill set. My expertise lies in
 <img src="https://github-readme-stats.vercel.app/api?username=towry&show_icons=true" align="right" />
 
 - [Shuangpin](https://zh.wikipedia.org/wiki/%E5%8F%8C%E6%8B%BC) user.
-- I am currently using Elixir & Python in making a 1B $ product.
+- I am currently using Elixir & Python to make a 1000000000B $ product.
